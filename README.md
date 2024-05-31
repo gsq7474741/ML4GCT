@@ -62,3 +62,4 @@ A sqlite database named `experiment.db` will be created in the directory. All th
 If `dump_db` in the main function is set to `True`, the database will be dumped to csv files in the `dump` directory. 
 These files can be opened using Excel or other tools for further analysis.
 
+Existing experiment records (i.e., `experiment.db`, `dump` directory and `results.txt`) are the original results of the paper.
